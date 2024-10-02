@@ -1,0 +1,18 @@
+Package: shinyprio
+Type: Package
+Title: Creates a shiny application especially for the ELITE project at PRIO
+Version: 0.1.0
+Author: 
+    person("Gabriel", "Lonn", , "gelonn99@gmail.com", role = c("aut", "cre"))
+Maintainer: Gabriel Lonn <gelonn99@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
